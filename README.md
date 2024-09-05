@@ -12,7 +12,7 @@ This repository contains a collection of optimized templates for competitive pro
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Xen0cryst/Competitive-Programming.git
+    git clone https://github.com/Xen0cryst/CP-Templates.git
     ```
 
 2. Choose the template you need, modify it as required, and start solving problems.
